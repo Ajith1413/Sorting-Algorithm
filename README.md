@@ -24,6 +24,7 @@ i)	#Selection Sort
 Program to sort the elements in the list using the Selection Sort algorithm.
 Developed by: AJITH KUMAR A
 RegisterNumber: 23002150
+
 '''
 def selection_sort(nums):
     for i in range(len(nums)):
@@ -37,6 +38,9 @@ list_of_nums = eval(input())
 selection_sort(list_of_nums)
 # use the selection sort function
 # print the sorted list
+
+
+
 
 
 
